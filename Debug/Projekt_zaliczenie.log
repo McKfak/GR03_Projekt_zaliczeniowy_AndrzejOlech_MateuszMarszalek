@@ -1,0 +1,3 @@
+﻿  Projekt_zaliczenie.cpp
+C:\Users\admin\source\repos\Projekt_zaliczenie\Projekt_zaliczenie\Projekt_zaliczenie.cpp(52,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Projekt_zaliczenie.vcxproj -> C:\Users\admin\source\repos\Projekt_zaliczenie\Debug\Projekt_zaliczenie.exe
